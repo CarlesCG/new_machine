@@ -20,6 +20,9 @@ Git
 Windows tilling manager
  - Spectacle or Rectangle (config file)
 
+Utils
+ - Boom3D
+ - Alfred
 
 Drivers
  - Logitech 
