@@ -4,25 +4,28 @@ Collection of tools to install and some of their config files
 
 
 Command line
- - Sublime      https://www.sublimetext.com/
- - iTerm2       https://iterm2.com/
- - Brew         https://brew.sh/
+ - iTerm2       https://iterm2.com
+ - Brew         https://brew.sh
  - Oh My Zsh    https://ohmyz.sh/#install
 
 
 Python
  - Anaconda Navigator
- - VSCode (config files)
+ - VSCode (config file)
 
 Git
- - GitKraken    https://www.gitkraken.com/
+ - GitKraken    https://www.gitkraken.com
+
+Editors
+ - Sublime      https://www.sublimetext.com
+ - Atom         https://atom.io/
 
 Windows tilling manager
  - Spectacle or Rectangle (config file)
 
 Utils
  - Boom3D
- - Alfred
+ - Alfred (config file)
 
 Drivers
  - Logitech 
