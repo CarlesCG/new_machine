@@ -18,14 +18,14 @@ Git
 
 Editors
  - Sublime      https://www.sublimetext.com
- - Atom         https://atom.io/
+ - Atom         (config file)
 
 Windows tilling manager
- - Spectacle or Rectangle (config file)
+ - Rectangle (config file)
 
 Utils
  - Boom3D
  - Alfred (config file)
 
 Drivers
- - Logitech 
+ - Logitech
